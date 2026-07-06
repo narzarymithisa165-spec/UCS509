@@ -31,7 +31,7 @@ That's it — no software to install.
 
 ### Step 1: Create a new repository
 1. Log in to GitHub, click the **+** icon (top right) → **New repository**
-2. Name it exactly: `UCS509_assignment-1-arrays` (or whatever naming convention your instructor gives you)
+2. Name it exactly: `UCS509_rollnumber` 
 3. Set visibility to **Private**
 4. Check **"Add a README file"**
 5. Click **Create repository**
@@ -41,7 +41,7 @@ That's it — no software to install.
 ### Step 2: Add your instructor as a collaborator
 1. In your new repo, go to **Settings** → **Collaborators**
 2. Click **Add people**
-3. Enter your instructor's GitHub username     (Bikram-cit)
+3. Enter your instructor's GitHub username     (**Bikram-cit**)
 4. Send the invite
 
 > Without this step, your instructor cannot see a private repo, even if they know it exists.
