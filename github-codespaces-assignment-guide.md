@@ -78,7 +78,7 @@ This is done entirely with clicks — no typed Git commands required.
 5. Click **Sync Changes** (or **Push**) to upload it to GitHub
 
 ### Step 7: Verify on GitHub
-Go back to your repository page (github.com, not the Codespace) and confirm `arrays.py` appears with your latest commit message.
+Go back to your repository page (github.com, not the Codespace) and confirm `arrays.c` appears with your latest commit message.
 
 ### Step 8: Commit early and often (recommended)
 Repeat Step 6 each time you finish a function, not just at the end. This gives you a safety net and shows your working process over time.
